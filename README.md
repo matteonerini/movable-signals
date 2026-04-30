@@ -1,7 +1,3 @@
-# movable-signals
-Enabling Smart Radio Environments in the Frequency Domain With Movable Signals
-
-
 # Enabling Smart Radio Environments in the Frequency Domain With Movable Signals
 
 This repository contains code to reproduce the paper:
