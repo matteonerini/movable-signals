@@ -2,7 +2,7 @@
 
 This repository contains code to reproduce the paper:
 
-> M. Nerini, B. Clerckx, "[Enabling smart radio environments in the frequency domain with movable signals](https://ieeexplore.ieee.org/document/)," IEEE Trans. Wireless Commun., 2026.
+> M. Nerini, B. Clerckx, "[Enabling smart radio environments in the frequency domain with movable signals](https://ieeexplore.ieee.org/document/11512036)," IEEE Trans. Wireless Commun., 2026.
 
 ## Code
 
